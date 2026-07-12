@@ -1,0 +1,6 @@
+.venv
+.ipynb_checkpoints
+.idea
+.env
+
+2_assessment/langchain-academy/lc-academy-env
